@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lance Anthony Montierro  
 
 ### 🌟 About Me  
-I'm a **20-year-old front-end developer** and a **2nd-year college student** at **STI Caloocan**, aspiring to become a **full-stack developer**. I love crafting responsive, user-friendly, and visually appealing websites, constantly exploring new technologies to enhance my skills.  
+I'm a **20-year-old front-end developer** and a **incoming 3rd-year college student** at **STI Caloocan**, aspiring to become a **full-stack developer**. I love crafting responsive, user-friendly, and visually appealing websites, constantly exploring new technologies to enhance my skills.  
 
 ---
 
